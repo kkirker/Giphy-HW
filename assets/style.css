@@ -1,0 +1,7 @@
+body {
+    display: flex;
+}
+
+.buttons {
+    flex: 1;
+}
